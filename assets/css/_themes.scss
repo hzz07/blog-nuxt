@@ -1,0 +1,110 @@
+$themes: (
+  default: (
+    /* font-size */
+    font-size-default: 14px,
+    font-size-default-s: 13px,
+    font-size-lg: 16px,
+    font-size-sm: 12px,
+
+
+    color-white: #FFF,
+
+    /* Color */
+    color-success: #13CE66,
+    color-error: #FF4949,
+    color-warning: #FFC82C,
+    color-info: #78A4FA,
+
+    // Text Color
+    text-color-primary: #dc2b34,
+    text-color-white: #ffffff,
+    text-color-black: #000000,
+    text-color-default: #4a4a4a,
+    text-color-default-q:#7B7B7B,
+    text-color-placeholder: #C9C9C9,
+    text-color-disabled: #CCCCCC,
+    text-color-header:cornflowerblue,
+    text-color-header-i:#495aff,
+    // Background Color
+    bg-color-white: #ffffff,
+    bg-color-grey: #F7F7F7,
+    bg-img-color:rgba(200, 200, 200,0.3),
+    bg-color-light: #ECF5FD,
+    bg-color-text-bg:rgba(240,240,240,1),
+    bg-color-verifycode: #cfcfcf,
+    bg-color-dark: #4a4a4a,
+    bg-search-op:rgba(0,0,0,0.2),
+    bg-hover:rgba(218,218,218,1),
+    bg-image-op:rgba(247,247,247,0.6),
+    bg-color-white-op:rgba(255,255,255,0.7),
+    first-color:red,
+    second-color: #0073ff,
+    third-color:#d900ff,
+
+    // Border Color
+    borer-color-primary: #e64644,
+    borer-color-primary-light: #dc2b34,
+    borer-color-white: #ffffff,
+    borer-color-default: #CCCCCC,
+
+    // Link Color
+    link-color-primary: #d91721,
+    link-color-primary-light: #b51d29,
+    link-color: #6190E8,
+    link-color-light: #79A1EB,
+    link-color-disabled: #BFBFBF,
+
+    // Icon Color
+    icon-color-base: #CCC,
+    bannerHeight:180px,
+    lineHeight:35px
+  ),
+
+  light: (
+    /* font-size */
+    font-size-default: 14px,
+    font-size-lg: 16px,
+    font-size-sm: 12px,
+
+
+    color-white: #FFF,
+
+    /* Color */
+    color-success: #13CE66,
+    color-error: #FF4949,
+    color-warning: #FFC82C,
+    color-info: #78A4FA,
+
+    // Text Color
+    text-color-primary: #78A4FA,
+    text-color-white: #ffffff,
+    text-color-black: #000000,
+    text-color-default: #4a4a4a,
+    text-color-placeholder: #C9C9C9,
+    text-color-disabled: #CCCCCC,
+
+    // Background Color
+    bg-color-primary: #d91720,
+    bg-color-primary-light: #b51d29,
+    bg-color-white: #ffffff,
+    bg-color-grey: #F7F7F7,
+    bg-color-light: #ECF5FD,
+    bg-color-verifycode: #cfcfcf,
+
+    // Border Color
+    borer-color-primary: #e64644,
+    borer-color-primary-light: #dc2b34,
+    borer-color-white: #ffffff,
+    borer-color-default: #CCCCCC,
+
+    // Link Color
+    link-color-primary: #d91721,
+    link-color-primary-light: #b51d29,
+    link-color: #6190E8,
+    link-color-light: #79A1EB,
+    link-color-disabled: #BFBFBF,
+
+    // Icon Color
+    icon-color-base: #CCC,
+  ),
+);
